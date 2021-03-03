@@ -1,4 +1,4 @@
-# Print-Even-Number-JS
+# Print-Even-Number-JS ✒️ </br>
 PROBLEM STATEMENT:- Q1. Write a JavaScript program that prints even numbers from 1 to 100 
 in descending order the output should show: 
 100 98 96 . . . 2
